@@ -1,0 +1,48 @@
+/* all */
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins';
+}
+
+/* title */
+img {
+    border-radius: 1000px;
+    margin-top: 130px;
+}
+
+.title {
+    font-size: 20px;
+    font-weight: bold;
+    color: #001C43;
+}
+
+/* buttons */
+.buttone {
+    width: 300px;
+    color: #001C43;
+    font-weight: 600;
+    border: 2px solid #001C43;
+}
+
+.buttone:hover {
+    color: white;
+    background-color: #001C43;
+}
+
+/* footer */
+.footer {
+    margin-top: 200px;
+    font-size: 12px;
+    color: black;
+    opacity: 50%;
+}
+
+.text {
+    text-decoration: none;
+    color: black;
+}
+
+.text:hover {
+    color: red;
+}
